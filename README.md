@@ -1,6 +1,4 @@
 # ScreenShot Desktop using PowerShell (PS)
-Copyright 2019 ScreenShot Desktop using PowerShell (PS)
-
 Written by: Othmane Moutaouakkil ([MOUTAOUAKKIL](https://github.com/moutaouakkil))
 
 
