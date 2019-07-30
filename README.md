@@ -15,8 +15,7 @@ install the latest version of [.NET Framework](https://dotnet.microsoft.com/down
 
 
 ## How to use
-*Windows*
-```bash
+```powershell
 Double click on the script
 ```
 
